@@ -1,2 +1,2 @@
 # test
-small repository fpr testing purposes
+small repository for testing purposes
